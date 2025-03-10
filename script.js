@@ -2,7 +2,7 @@ console.log("This is going to be fun!");
 console.log("How about we get started!");
 console.log((5 * 5) / 2);
 
-let dayOfWeek = "Thursday";
+let dayOfWeek = "Monday";
 //this is how you add a comment
 let todayDate = "6";
 let month = "March";
